@@ -3,7 +3,7 @@
 ## [Pleaser DAO](https://pleasr.org/#)
 
 Pleaser Dao is the first set of people that grouped together in order to collectively buy NFT art. see [pplpleaser](#pplpleaser) for more information on the origins.
-[Members](#Pleaser-DAO-Members)
+[Members](/PleaserDaoReference.md)
 
 ### [Uniswap x*y=k](https://gallery.so/nft/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405/13623)
 
@@ -59,5 +59,6 @@ Minted on June 15, 2021, ed. 1/1 - Smart Contract Address [0x86ade256037d80d6d42
 
 * Artist: [_kitteh](https://twitter.com/_kittehdesign)
 * 1559 NFTs Auctioned for **0.1559 ETH** on Apr 16, 2021 at 2:27pm
-* Story: Edward Snowdens Face overlayed on all documents in their the entirety of a landmark court decision ruling the National Security Agency's mass surveillance violated the law
-* where did the funds go: Freedom of the Press Foundation
+
+
+#### [see other references](/other-nft-examples/) for examples outside of the public goods space.
